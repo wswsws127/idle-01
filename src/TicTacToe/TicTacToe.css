@@ -49,3 +49,12 @@ ul {
 .game-info {
     margin-left: 20px;
 }
+
+.score-board {
+    margin: 1em;
+    text-align: center;
+    border: white;
+    border-style: groove;
+    padding: 0.618em;
+    display: inline-block;
+}
